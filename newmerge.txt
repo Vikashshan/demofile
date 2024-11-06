@@ -1,0 +1,3 @@
+This the text file whihc i have created in a images-folder file.
+here we are trying to merge the file with another branch
+
